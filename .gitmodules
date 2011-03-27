@@ -1,3 +1,6 @@
 [submodule "amber"]
 	path = amber
 	url = git@github.com:jimbarritt/amber.git
+[submodule "java/apache-amber"]
+	path = java/apache-amber
+	url = git@github.com:jimbarritt/amber.git

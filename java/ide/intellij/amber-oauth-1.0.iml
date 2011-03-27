@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../apache-amber/oauth-1.0/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../../apache-amber/oauth-1.0/target/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../apache-amber/oauth-1.0">
+      <excludeFolder url="file://$MODULE_DIR$/../../apache-amber/oauth-1.0/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="amber-signature-api" />
+    <orderEntry type="module" module-name="amber-spec-api" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.7" level="project" />
+  </component>
+</module>
+
