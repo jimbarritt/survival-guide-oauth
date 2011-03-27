@@ -1,0 +1,9 @@
+#emacs
+*~
+
+#intellij
+out
+*.iws
+
+#build
+target
