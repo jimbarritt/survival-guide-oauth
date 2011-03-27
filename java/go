@@ -1,0 +1,4 @@
+#!/usr/bin/ruby
+
+
+puts "Welcome to the OAuth Yak Shaving festival!"

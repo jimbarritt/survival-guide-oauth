@@ -1,0 +1,21 @@
+= Intro
+
+This part of the project uses cucumber to provide functional, system level tests of the servers.
+
+== Requirements
+* RVM on Mac OSX / Linux
+
+== Installation and Usage
+
+1. Clone the whole repository from github
+
+=== Mac OSX / Linux
+
+1. You'll need Java SDK 1.6 or later
+2. Ensure you have RVM (Ruby Version Manager) installed: http://rvm.beginrescueend.com/
+3. Run ./go install:osx in the root directory
+3. Run ./go test:functional
+
+=== Windows
+
+Whoa there leslie. Not quite ready for that kind of madness!
