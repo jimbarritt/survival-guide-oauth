@@ -585,6 +585,7 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../apache-amber" vcs="Git" />
   </component>
   <component name="WebServicesPlugin" addRequiredLibraries="true" />
   <component name="com.sixrr.metrics.MetricsReloaded">
