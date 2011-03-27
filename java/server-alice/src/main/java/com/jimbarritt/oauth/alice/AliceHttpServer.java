@@ -1,4 +1,4 @@
-package java.com.jimbarritt.oauth.alice;
+package com.jimbarritt.oauth.alice;
 
 public class AliceHttpServer {
 
