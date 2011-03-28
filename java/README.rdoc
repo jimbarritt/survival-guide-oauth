@@ -17,6 +17,7 @@ Finally we may implement https
 
 == Requirements
 * RVM on Mac OSX / Linux
+* buildr
 
 == Installation and Usage
 
@@ -26,8 +27,9 @@ Finally we may implement https
 
 1. You'll need Java SDK 1.6 or later
 2. Ensure you have RVM (Ruby Version Manager) installed: http://rvm.beginrescueend.com/
-3. Run ./go install:osx in the root directory
-3. Run ./go test:functional
+3. Install buildr (rvm gem install buildr)
+4. Run ./go install:osx in the root directory
+5. Run ./go test:functional
 
 === Windows
 
