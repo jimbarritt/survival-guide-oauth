@@ -1,6 +1,19 @@
 = Intro
 
-This part of the project uses cucumber to provide functional, system level tests of the servers.
+This project demonstrates how to setup and use OAuth 2.0
+
+There are 2 server, One is public, Alice, to which members of the public can visit.
+
+Here they can fill in a form which will be posted to second server, Bob, which is more private.
+
+Bob needs to be secured and has his own login system, completely independant of Alice.
+
+Alice also has a secured area, which can in turn access secure items in Bobs server, via HTTP REST calls.
+
+Finally, Alice also has some public areas which can show information which is retrieved from bob.
+Only Alice should be allowed to make GET's to this server
+
+Finally we may implement https
 
 == Requirements
 * RVM on Mac OSX / Linux
@@ -19,4 +32,3 @@ This part of the project uses cucumber to provide functional, system level tests
 === Windows
 
 Whoa there leslie. Not quite ready for that kind of madness!
-

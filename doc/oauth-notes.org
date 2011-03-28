@@ -4,3 +4,6 @@
 *** Apache Amber
 **** This is an incubator project on apache which has an implementation
 **** It has been cloned on git @ https://github.com/apache/amber.git
+** Digest encryption
+*** To store a password in a data store, you can use a hash. This is difficult to unencrypt. You would need to keep trying many combinations until you discovered the correct one
+

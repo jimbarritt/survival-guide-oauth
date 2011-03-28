@@ -437,6 +437,7 @@
       <module fileurl="file://$PROJECT_DIR$/amber-signature-api.iml" filepath="$PROJECT_DIR$/amber-signature-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/amber-spec-api.iml" filepath="$PROJECT_DIR$/amber-spec-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/functional-test.iml" filepath="$PROJECT_DIR$/functional-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth-survival-guide-root.iml" filepath="$PROJECT_DIR$/oauth-survival-guide-root.iml" />
       <module fileurl="file://$PROJECT_DIR$/oauth2-authzserver.iml" filepath="$PROJECT_DIR$/oauth2-authzserver.iml" group="amber-oauth2-parent and modules" />
       <module fileurl="file://$PROJECT_DIR$/oauth2-client.iml" filepath="$PROJECT_DIR$/oauth2-client.iml" group="amber-oauth2-parent and modules" />
       <module fileurl="file://$PROJECT_DIR$/oauth2-client-demo.iml" filepath="$PROJECT_DIR$/oauth2-client-demo.iml" group="amber-oauth2-parent and modules" />

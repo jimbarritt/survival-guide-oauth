@@ -9,6 +9,10 @@
         <webroots>
           <root url="file://$MODULE_DIR$/../../apache-amber/oauth-2.0/oauth2-client-demo/src/main/webapp" relative="/" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../apache-amber/oauth-2.0/oauth2-client-demo/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../apache-amber/oauth-2.0/oauth2-client-demo/src/main/resources" />
+        </sourceRoots>
       </configuration>
     </facet>
   </component>
